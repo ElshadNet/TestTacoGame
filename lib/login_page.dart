@@ -81,7 +81,7 @@ class _LoginPageState extends State<LoginPage> {
                  child: FlatButton(
                    child: Text("Login As Demo"),
                    onPressed: ()  {
-                      print("Domo User");
+                      print("Domo Users");
                     },
                    ),
                ),
